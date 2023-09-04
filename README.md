@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Rodrigues 🙋‍♂️
-Estudante de Analista de Sistemas e Python, 24 anos e player de CSGO/Wild Rift
+Estudante de Análise e Desenvolvimento de Sistemas, a tecnologia utilizada é Python e tenho quase 26
 
-## Skills (ainda única):
+## Tecnologias (tecnologiA ainda):
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
