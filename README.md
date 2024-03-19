@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Victor Rodrigues 🙋‍♂️
-Estudante de Análise e Desenvolvimento de Sistemas, a tecnologia utilizada é Python e tenho quase 26
+Estudante de Análise e Desenvolvimento de Sistemas, minha lang é Python e tenho quase 27 invernos
 
 ## Tecnologias (tecnologiA ainda):
 
